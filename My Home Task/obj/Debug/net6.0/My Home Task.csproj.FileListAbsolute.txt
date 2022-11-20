@@ -1,0 +1,15 @@
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\bin\Debug\net6.0\My Home Task.exe
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\bin\Debug\net6.0\My Home Task.deps.json
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\bin\Debug\net6.0\My Home Task.runtimeconfig.json
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\bin\Debug\net6.0\My Home Task.dll
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\bin\Debug\net6.0\My Home Task.pdb
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.dll
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\refint\My Home Task.dll
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.pdb
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\My Home Task.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Desktop\My Home Task\My Home Task\obj\Debug\net6.0\ref\My Home Task.dll
